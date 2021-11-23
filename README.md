@@ -1,6 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
+
+>First Module project.
 
 > One paragraph statement about the project.
 
@@ -10,9 +12,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
 
 ## Live Demo
 
@@ -43,11 +43,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **TOBIN CHILONGO JNR**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [https://github.com/Tobinchilongo](https://github.com/githubhandle)
+- Twitter: [https://twitter.com/Tobin_Official](https://twitter.com/twitterhandle)
+- LinkedIn: [https://www.linkedin.com/in/tobin-chilongo-a6736415a/](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
